@@ -41,4 +41,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    TOKEN = 8914465407:AAEG1Hwu4V-yO4ICjO_LhwOf0o76EPW6E1I
+    TOKEN ="http://t.me/nemat_ai_official_bot" 
